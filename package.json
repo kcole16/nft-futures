@@ -1,0 +1,9 @@
+{
+  "name": "nft-futures",
+  "version": "1.0.0",
+  "description": "NFT Futures contracts",
+  "dependencies": {
+    "zeppelin-solidity": "^1.12.0"
+  },
+  "devDependencies": {},
+}
